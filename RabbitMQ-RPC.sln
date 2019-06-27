@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPCServer", "RPCServer\RPCServer.csproj", "{684F4C83-E177-4CE3-B084-3D04D401E485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPCClient", "RPCClient\RPCClient.csproj", "{F13FA167-9A8A-46BB-AD81-F84B1BBAFF19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{684F4C83-E177-4CE3-B084-3D04D401E485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684F4C83-E177-4CE3-B084-3D04D401E485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684F4C83-E177-4CE3-B084-3D04D401E485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684F4C83-E177-4CE3-B084-3D04D401E485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F13FA167-9A8A-46BB-AD81-F84B1BBAFF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13FA167-9A8A-46BB-AD81-F84B1BBAFF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13FA167-9A8A-46BB-AD81-F84B1BBAFF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13FA167-9A8A-46BB-AD81-F84B1BBAFF19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F4D2995-4F39-4F61-B20B-C22F4CF84E36}
+	EndGlobalSection
+EndGlobal
